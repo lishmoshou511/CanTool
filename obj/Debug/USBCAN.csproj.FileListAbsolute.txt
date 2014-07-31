@@ -1,0 +1,17 @@
+D:\Source\VisualStudio\USBCAN\bin\Debug\USBCAN.exe
+D:\Source\VisualStudio\USBCAN\bin\Debug\USBCAN.pdb
+D:\Source\VisualStudio\USBCAN\obj\Debug\USBCAN.csprojResolveAssemblyReference.cache
+D:\Source\VisualStudio\USBCAN\obj\Debug\USBCAN.Form1.resources
+D:\Source\VisualStudio\USBCAN\obj\Debug\USBCAN.Properties.Resources.resources
+D:\Source\VisualStudio\USBCAN\obj\Debug\USBCAN.csproj.GenerateResource.Cache
+D:\Source\VisualStudio\USBCAN\obj\Debug\USBCAN.exe
+D:\Source\VisualStudio\USBCAN\obj\Debug\USBCAN.pdb
+D:\Source\VisualStudio\CanTool\bin\Debug\USBCAN.exe.config
+D:\Source\VisualStudio\CanTool\obj\Debug\USBCAN.exe
+D:\Source\VisualStudio\CanTool\obj\Debug\USBCAN.pdb
+D:\Source\VisualStudio\CanTool\bin\Debug\USBCAN.exe
+D:\Source\VisualStudio\CanTool\bin\Debug\USBCAN.pdb
+D:\Source\VisualStudio\CanTool\obj\Debug\USBCAN.csprojResolveAssemblyReference.cache
+D:\Source\VisualStudio\CanTool\obj\Debug\USBCAN.Form1.resources
+D:\Source\VisualStudio\CanTool\obj\Debug\USBCAN.Properties.Resources.resources
+D:\Source\VisualStudio\CanTool\obj\Debug\USBCAN.csproj.GenerateResource.Cache
